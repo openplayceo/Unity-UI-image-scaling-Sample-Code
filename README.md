@@ -20,6 +20,8 @@ HP 막대와 같이 게임 플레이 시 시시각각 변경이 요구될 때 �
 
 이 샘플의 자세한 사용법은 아래의 유튜브 영상을 참고 해 주세요.
 
+<img src = "https://github.com/user-attachments/assets/18118e97-6e53-4b6b-be59-9f8995f6cdf5" width="60%" height ="60%">
+
 <https://youtu.be/YUZthyMqdf8?si=ZMeCeHen1ZzRgbxn>
 
 <br/>
