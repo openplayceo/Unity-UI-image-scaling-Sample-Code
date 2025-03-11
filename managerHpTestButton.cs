@@ -9,9 +9,9 @@ public class managerHpTestButton : MonoBehaviour
     [SerializeField] Button btnHpAdd;
     [SerializeField] Button btnHpMinus;
     //
-    [SerializeField] int hpMax = 100;
-    [SerializeField] int testValue = 10;
-    [SerializeField] int hpCurrent = 0;
+    [SerializeField] int hpMax = 100; // 기본 수치
+    [SerializeField] int testValue = 10; // 변경되는 수치
+    [SerializeField] int hpCurrent = 0; // 현재 수치
     // Start is called before the first frame update
     void Start()
     {
